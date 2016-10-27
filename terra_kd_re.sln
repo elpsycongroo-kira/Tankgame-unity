@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{CC41A2AB-C18A-0E95-583D-FC057C845583}") = "terra_kd_re", "Assembly-CSharp-firstpass.csproj", "{FC9B697C-877C-F590-ACA2-59A722FC1404}"
+EndProject
+Project("{CC41A2AB-C18A-0E95-583D-FC057C845583}") = "terra_kd_re", "Assembly-CSharp.csproj", "{6D57B862-53DB-75DC-0B57-02B2CA86E29E}"
+EndProject
+Project("{CC41A2AB-C18A-0E95-583D-FC057C845583}") = "terra_kd_re", "Assembly-CSharp-Editor.csproj", "{B5CD8EFB-4E0A-0058-07B3-5BCDA310B95B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC9B697C-877C-F590-ACA2-59A722FC1404}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC9B697C-877C-F590-ACA2-59A722FC1404}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC9B697C-877C-F590-ACA2-59A722FC1404}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC9B697C-877C-F590-ACA2-59A722FC1404}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D57B862-53DB-75DC-0B57-02B2CA86E29E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D57B862-53DB-75DC-0B57-02B2CA86E29E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D57B862-53DB-75DC-0B57-02B2CA86E29E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D57B862-53DB-75DC-0B57-02B2CA86E29E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5CD8EFB-4E0A-0058-07B3-5BCDA310B95B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5CD8EFB-4E0A-0058-07B3-5BCDA310B95B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5CD8EFB-4E0A-0058-07B3-5BCDA310B95B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5CD8EFB-4E0A-0058-07B3-5BCDA310B95B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
